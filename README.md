@@ -1,4 +1,4 @@
-This is the code our SRC pretext, which is used for self-supervised visual representation learning from videos.
+This is our SRC pretext code, which is used for self-supervised visual representation learning from videos.
 
 Notes:
 - The dataset (UCF-101 and HMDB-51) main folder should have two sub-folders named (Videos, Splits). The Videos sub-folder contains all the videos of the dataset, while the Splits sub-folder contains the files that define the videos for each split.
